@@ -4,7 +4,7 @@
         "details": [
                         {
                             "appID": "7DE44662F5.ua.besplatka",
-                            "paths": [ "*/confirm-account"]
+                            "paths": [ "*/confirm-account", "*/delete-profile"]
                         }
                    ]
     }
